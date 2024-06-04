@@ -81,7 +81,7 @@
 
 .aligned-text {
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 .aligned-text_center {
@@ -96,7 +96,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-top: 147px;
+  margin-top: 137px;
   position: relative;
   z-index: 2;
 }
